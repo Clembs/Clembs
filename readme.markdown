@@ -5,12 +5,12 @@
 * Designed and coded all by hand my [website](https://clembs.xyz)
 ## Tools:
 * VSCode
-* GitHub Desktop
+* GitHub
 * Discord
 * Windows (unfortunately)
-* Orangina 🤤
+* [Orangina 🤤](https://en.wikipedia.org/wiki/Orangina)
 ## Plans:
-* Switching clembs.xyz from static HTML to ReactJS magic
-* Making CRBT the perfect Discord bot
-* Clembs Watch, a website to post my content outside of YouTube because fuck YouTube
+* Switching [clembs.xyz](https://clembs.xyz) from static HTML to ReactJS magic
+* Making [CRBT](https://clembs.xyz/crbt) the perfect Discord bot
+* [Clembs Watch](https://clembs.xyz/watch), a website to post my content outside of YouTube because fuck YouTube
 * Lots of small programs to make my life easier (and to learn more programming languages)
