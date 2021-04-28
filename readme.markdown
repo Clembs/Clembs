@@ -2,7 +2,7 @@
 * I'm a French "developer" and designer
 * Currently learning all the JavaScript & TS jazz
 * Made [CRBT](https://clembs.xyz/crbt), a pretty cool Discord bot
-* Designed and coded all by hand my [website](https://clembs.xyz)
+* Designed and coded my [website](https://clembs.xyz)
 ### Tools:
 * VSCode
 * GitHub
