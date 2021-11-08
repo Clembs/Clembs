@@ -1,12 +1,23 @@
-### who:
-- im a french developer, designer and im trying to do other kinds of stuff
-- currently in the process of learning a lot of things such as typescript, davinci resolve, etc
-- i made [CRBT](https://github.com/CRBT-Team), a pretty cool and complete bot for discord
-### why:
-- idk :(
-### how:
-- visual studio code
-- github
-- discord
-- windows
-- [orangina](https://en.wikipedia.org/wiki/Orangina)
+### i:
+- am french
+- am a developer
+- am a designer
+- like lists :D
+### projects:
+(real major stuff, other random stuff [here](https://clembs.xyz/all)
+- [CRBT](https://crbt.ga), a Discord bot written in JS used by 90+ servers
+- [clembs.xyz](https://clembs.xyz), self website
+### i have experience in:
+- TypeScript, JavaScript
+- Svelte, Express (a bit), Discord.js
+- HTML, SCSS/CSS (a bit)
+- Adobe XD, Figma
+- aoi.js
+### i'm learning:
+- Next.js
+- Python
+- Vim
+### setup:
+- Windows desktop & laptop
+- VSCode, Git, Discord, etc
+- [Orangina](https://en.wikipedia.org/wiki/Orangina)
