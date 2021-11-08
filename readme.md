@@ -1,8 +1,8 @@
-### i:
-- am french
-- am a developer
-- am a designer
-- like lists :D
+### presentation:
+- i am french
+- i'm a "developer"
+- i design logos, interfaces, think ideas, etc
+- i like lists :D
 ### projects:
 (real major stuff, other random stuff [here](https://clembs.xyz/all)
 - [CRBT](https://crbt.ga), a Discord bot written in JS used by 90+ servers
