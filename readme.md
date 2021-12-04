@@ -1,26 +1,26 @@
 ### presentation:
 - i am french
-- i'm a "developer"
-- i design logos, interfaces, think ideas, etc
+- i'm a developer
+- i'm a digital designer
 - i like lists :D
 
-### projects:
+### i'm working on:
 (real major stuff, other random stuff [here](https://clembs.xyz/all).)
-- [CRBT](https://crbt.ga), a Discord bot written in JS used by 90+ servers
-- [clembs.xyz](https://clembs.xyz), self website
+- [CRBT](https://crbt.ga), a Discord bot used by 90+ servers written in aoi.js
+- [clembs.xyz](https://clembs.xyz), my own website written in Svelte
 - [.data](https://github.com/Clembs/data), really simple data files
+- Purplet, a framework made to easily leverage interactions on Discord.js
 
 ### i have experience in:
 - TypeScript, JavaScript
-- Svelte, Express (a bit), Discord.js
-- HTML, SCSS/CSS (a bit)
+- Svelte, Discord.js
+- HTML, SCSS
 - Adobe XD, Figma
-- aoi.js
 
 ### i'm learning:
 - Next.js
-- Python
-- Vim
+- Svelte
+- SCSS
 
 ### setup:
 - Windows desktop & laptop
