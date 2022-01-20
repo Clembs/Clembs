@@ -5,9 +5,10 @@
 - i like lists :D
 
 ### i'm working on:
+- [StreamThings](https://github.com/Clembs/StreamThings), a suite of software tools for streaming on twitch
 - [CRBT](https://crbt.ga), a verified Discord bot used by 100+ servers written with Purplet
 - [clembs.xyz](https://clembs.xyz), my own website written in Svelte
-- [.data](https://github.com/Clembs/data), really simple data files
+- [.FEDS](https://github.com/Clembs/FEDS), fairly easy data system
 - [Purplet](https://github.com/CRBT-Team/Purplet), a Discord bot framework to easily leverage interactions
 - Mint Text & Mint Display, two fonts made for legibility and for my brand identity
 
