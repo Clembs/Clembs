@@ -3,9 +3,9 @@ developer, designer, streamer
 
 ## Current projects:
 * [CRBT](https://crbt.app): A multipurpose verified Discord bot that's minimalistic and easy to use.
-* [Purplet](https://github.com/CRBT-Team/Purplet): A simple framework to build modern Discord apps.
-* [StreamThings](https://github.com/Clembs/StreamThings): A monorepo toolkit for streaming on Twitch, made of web widgets, an API framework for bots, and [Habile](https://github.com/Clembs/StreamThings/tree/main/Habile), the Twitch chat bot.
-* Plasmata: A mobile game where you collect pets and make them fight against players from around the world
+* [Plasmata](https://github.com/Clembs/Plasmata): A mobile action PvP game where you fight online with collectable creatures.
+* [Purplet](https://purplet.js.org): A simple framework to build modern Discord apps.
+* [StreamThings](https://github.com/Clembs/StreamThings): Various utilities for streaming on Twitch, includes a bot framework, the [Habile](https://github.com/Clembs/StreamThings/tree/main/Habile) bot and web widgets.
 
 ## Skills:
 * SvelteKit
@@ -13,12 +13,9 @@ developer, designer, streamer
 * Prisma
 * Node.js
 * SCSS
-* Adobe XD/Figma
+* Figma
 
 ## Learning:
-* NativeScript
-* Rust
-* Flutter
+* React Native
 * Next.js
-* Solid
-* WebAssembly
+* Rust
