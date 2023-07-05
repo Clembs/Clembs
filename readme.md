@@ -1,5 +1,5 @@
 ## About me
-Hi, I'm Clément, a 16 y/o french high-schooler, passioned by design and computers.
+Hi, I'm Clément, a 17 y/o french high-schooler, passioned by design and computers.
 When I'm not studying, socializing or just wasting time on the Internet, I like to create new worlds, software and try to fine tune them so they're extra nice.
 
 ### Knowledge
