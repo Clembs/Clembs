@@ -1,6 +1,6 @@
 ## About me
-Hi, I'm Clément, a 17 y/o french high-school graduate, passioned by design and computers.
-When I'm not studying or wasting time on the Internet, I like to create new worlds, software and try to fine tune them so they're extra nice.
+Hi, I'm Clément, a 17 y/o french IT student at Paul Sabatier University, passioned by design and computers.
+When I'm not studying or wasting time on the Internet, I like to create new worlds and software, and try to fine tune them so they're extra nice.
 
 ### Knowledge
 I mostly know and use TypeScript and web technologies ([Svelte](https://svelte.dev) my beloved), and I aim to learn other languages like Kotlin or Go.
