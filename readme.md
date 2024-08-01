@@ -1,5 +1,5 @@
 ## About me
-Hi, I'm Clément, a 17 y/o french CS student at IUT Paul Sabatier, passioned by computers and design.
+Hi, I'm Clément, a 18 y/o french CS student at IUT Paul Sabatier, passioned by computers and design.
 
 When I'm not studying... or wasting time on the Internet, I like to create new worlds and software, fine tuning them so they're as close to my vision.
 
