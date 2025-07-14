@@ -1,12 +1,12 @@
 ### about
-- french 18 year old
-- 2nd year computer science student at IUT de Toulouse
+- french 19 year old
+- 3rd year computer science student at IUT de Toulouse
 - obssessed with computers and web technologies
 
 ### knowledge
 - my favorite web stack is [Bun](https://bun.sh) + [SvelteKit](https://svelte.dev) + TypeScript + SCSS + PostgreSQL
-- honorable mentions: Next.js, React, PHP, jQuery, Tailwind CSS
-- also knowledgeable on non-web tech such as Flutter, Java, Python, Ada, C (in order of technical ability)
+- also using: React, Astro, PHP, jQuery, Tailwind CSS
+- knowledgeable on non-web tech: React Native, Flutter, Java, Python, Ada, C
 
 ### notable work
 - [Webpals](https://webpals.clembs.com/clembs): fun highly-customizable profiles for everyone.
